@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,6 +24,12 @@ namespace MeinTicTacToe
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Kaestchen_0_0_Click(object sender, RoutedEventArgs e)
+        {
+            Kaestchen_0_0.Background = Brushes.Red;
+            Kaestchen_0_0.Foreground = Brushes.Black;
         }
     }
 }
