@@ -22,7 +22,8 @@
         <Grid.Resources>
             <Style TargetType="Button">
                 <Setter Property="Background" Value="#FF00A8C6"/>
-                <Setter Property="FontSize" Value="70"/>
+                <Setter Property="FontSize" Value="90"/>
+                <Setter Property="FontWeight" Value="DemiBold"/>
                 <Setter Property="BorderThickness" Value="0.6"/>
                 <Setter Property="BorderBrush" Value="AliceBlue"/>
                 <Setter Property="Foreground" Value="#FFF9F2E7"/>
