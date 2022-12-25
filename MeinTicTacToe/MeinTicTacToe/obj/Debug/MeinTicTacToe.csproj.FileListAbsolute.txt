@@ -1,0 +1,16 @@
+C:\Users\zulic\WPF Framework\MeinTicTacToe\MeinTicTacToe\bin\Debug\MeinTicTacToe.exe.config
+C:\Users\zulic\WPF Framework\MeinTicTacToe\MeinTicTacToe\bin\Debug\MeinTicTacToe.exe
+C:\Users\zulic\WPF Framework\MeinTicTacToe\MeinTicTacToe\bin\Debug\MeinTicTacToe.pdb
+C:\Users\zulic\WPF Framework\MeinTicTacToe\MeinTicTacToe\obj\Debug\MeinTicTacToe.csproj.AssemblyReference.cache
+C:\Users\zulic\WPF Framework\MeinTicTacToe\MeinTicTacToe\obj\Debug\MeinTicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\zulic\WPF Framework\MeinTicTacToe\MeinTicTacToe\obj\Debug\MainWindow.g.cs
+C:\Users\zulic\WPF Framework\MeinTicTacToe\MeinTicTacToe\obj\Debug\App.g.cs
+C:\Users\zulic\WPF Framework\MeinTicTacToe\MeinTicTacToe\obj\Debug\MeinTicTacToe_MarkupCompile.cache
+C:\Users\zulic\WPF Framework\MeinTicTacToe\MeinTicTacToe\obj\Debug\MeinTicTacToe_MarkupCompile.lref
+C:\Users\zulic\WPF Framework\MeinTicTacToe\MeinTicTacToe\obj\Debug\MainWindow.baml
+C:\Users\zulic\WPF Framework\MeinTicTacToe\MeinTicTacToe\obj\Debug\MeinTicTacToe.g.resources
+C:\Users\zulic\WPF Framework\MeinTicTacToe\MeinTicTacToe\obj\Debug\MeinTicTacToe.Properties.Resources.resources
+C:\Users\zulic\WPF Framework\MeinTicTacToe\MeinTicTacToe\obj\Debug\MeinTicTacToe.csproj.GenerateResource.cache
+C:\Users\zulic\WPF Framework\MeinTicTacToe\MeinTicTacToe\obj\Debug\MeinTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\zulic\WPF Framework\MeinTicTacToe\MeinTicTacToe\obj\Debug\MeinTicTacToe.exe
+C:\Users\zulic\WPF Framework\MeinTicTacToe\MeinTicTacToe\obj\Debug\MeinTicTacToe.pdb
