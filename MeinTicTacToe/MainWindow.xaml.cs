@@ -28,8 +28,10 @@ namespace MeinTicTacToe
 
         private void Kaestchen_0_0_Click(object sender, RoutedEventArgs e)
         {
-            Kaestchen_0_0.Background = Brushes.Red;
-            Kaestchen_0_0.Foreground = Brushes.Black;
+            var urspuenglicheFarbe = kaestchen_0_0.Foreground;
+            kaestchen_0_0.Foreground = kaestchen_0_0.Background;
+            kaestchen_0_0.Background = urspuenglicheFarbe;
+            
         }
     }
 }
