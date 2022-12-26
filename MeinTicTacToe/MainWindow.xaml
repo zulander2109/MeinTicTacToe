@@ -30,15 +30,15 @@
             </Style>
         </Grid.Resources>
         <Button x:Name="kaestchen_0_0" Grid.Row="0" Grid.Column="0" Click="Kaestchen_0_0_Click">X</Button>
-        <Button x:Name="kaestchen_0_1" Grid.Row="0" Grid.Column="1">O</Button>
-        <Button x:Name="kaestchen_0_2" Grid.Row="0" Grid.Column="2"></Button>
+        <Button x:Name="kaestchen_0_1" Grid.Row="0" Grid.Column="1" Click="kaestchen_0_1_Click">O</Button>
+        <Button x:Name="kaestchen_0_2" Grid.Row="0" Grid.Column="2" Click="kaestchen_0_2_Click"></Button>
         
-        <Button x:Name="kaestchen_1_0" Grid.Row="1" Grid.Column="0"></Button>
-        <Button x:Name="kaestchen_1_1" Grid.Row="1" Grid.Column="1"></Button>
-        <Button x:Name="kaestchen_1_2" Grid.Row="1" Grid.Column="2"></Button>
+        <Button x:Name="kaestchen_1_0" Grid.Row="1" Grid.Column="0" Click="kaestchen_1_0_Click"></Button>
+        <Button x:Name="kaestchen_1_1" Grid.Row="1" Grid.Column="1" Click="kaestchen_1_1_Click"></Button>
+        <Button x:Name="kaestchen_1_2" Grid.Row="1" Grid.Column="2" Click="kaestchen_1_2_Click"></Button>
         
-        <Button x:Name="kaestchen_2_0" Grid.Row="2" Grid.Column="0"></Button>
-        <Button x:Name="kaestchen_2_1" Grid.Row="2" Grid.Column="1"></Button>
-        <Button x:Name="kaestchen_2_2" Grid.Row="2" Grid.Column="2"></Button>
+        <Button x:Name="kaestchen_2_0" Grid.Row="2" Grid.Column="0" Click="kaestchen_2_0_Click"></Button>
+        <Button x:Name="kaestchen_2_1" Grid.Row="2" Grid.Column="1" Click="kaestchen_2_1_Click"></Button>
+        <Button x:Name="kaestchen_2_2" Grid.Row="2" Grid.Column="2" Click="kaestchen_2_2_Click"></Button>
     </Grid>
 </Window>
